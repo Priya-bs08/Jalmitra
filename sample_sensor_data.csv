@@ -1,0 +1,5 @@
+timestamp_s,depth_m,battery_v,command,debris_collected_g,notes
+0,0.20,12.4,S,0,example_only
+10,0.25,12.3,F,12,example_only
+20,0.30,12.2,R,19,example_only
+30,0.28,12.1,S,19,example_only
